@@ -1,1 +1,2 @@
-*.terraform
+.terraform
+D1/*.terraform
