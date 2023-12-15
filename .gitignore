@@ -1,3 +1,4 @@
 D1/.terraform/*
 D1/terraform.tfstate*
 .devcontrainer/
+*.terraform.lock.hcl
